@@ -1,7 +1,7 @@
 <!--
-🔷 SHALINI M | DATA ANALYST
-🔷 Dynamically personalized GitHub Profile README
-🔷 Extracted from resume: Python, SQL, Power BI, Excel, ML, Data Storytelling
+SHALINI M | DATA ANALYST
+Dynamically personalized GitHub Profile README
+Extracted from resume: Python, SQL, Power BI, Excel, ML, Data Storytelling
 -->
 
 <h1 align="center">
@@ -27,7 +27,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 **Data Analyst** with a strong foundation in **Python, SQL, Excel, and Power BI**. Currently pursuing a **Bachelor of Engineering in Computer Science & Business Systems** (VTU, MIT Mysore). I thrive on cleaning messy datasets, uncovering hidden patterns, and building interactive dashboards that drive real-world decisions.
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 🧠 Skills & Technologies
+## Skills & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -70,7 +70,7 @@
 | **Freelance Data Analyst** | Self-Employed | 2023 – 2024 | Developed customer segmentation & inventory analysis reports; presented insights that improved retention strategies |
 | **Forage Virtual Intern** | Forage (JPM, Accenture) | 2023 | Completed Data Analytics & GenAI job simulations; applied real-world problem solving |
 
-### 🏆 Key Achievements (extracted from resume)
+### Key Achievements (extracted from resume)
 - ✅ **Blinkit Analysis**: Identified Tier 3 outlets as highest revenue contributors using Excel pivot dashboards.
 - ✅ **Customer Dashboard**: Pinpointed non-subscribers as dominant user group → recommended retention strategies.
 - ✅ **Zepto Inventory SQL**: Calculated category-wise revenue, out-of-stock high-value products using advanced SQL queries.
@@ -78,7 +78,7 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <div align="center">
   <table>
@@ -108,17 +108,17 @@
   </table>
 </div>
 
-> 💡 *More projects available in my [public repositories](https://github.com/Shalinigowd?tab=repositories)*
+> *More projects available in my [public repositories](https://github.com/Shalinigowd?tab=repositories)*
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 - **B.E. Computer Science & Business Systems** – VTU (MIT Mysore) | 2023–2026 | CGPA: 7.34
 - **Diploma in Computer Science** – Government Polytechnic, Arakere | 2020–2023
 - **SSLC** – Karnataka Public School | 77.76%
 
-**📜 Certifications:**
+**  Certifications:**
 - Data Analytics Job Simulation – Forage
 - Data Visualization: Empowering Business with Insights – Forage
 - GenAI Powered Data Analytics – Forage
@@ -127,7 +127,7 @@
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shalinigowd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -143,9 +143,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shalinigowd&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&point=38BDF8&line=2A9D8F" width="90%" />
 </p>
 
----
 
-## 📫 Let’s Connect & Collaborate
+##  Let’s Connect & Collaborate
 
 I'm actively seeking **entry-level Data Analyst roles** and meaningful collaborations. Feel free to reach out for:
 
