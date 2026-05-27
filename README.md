@@ -27,7 +27,7 @@
 
 <!-- GIF/Image (Optional - Add a relevant image URL) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="400" alt="Data Analytics GIF" />
+  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="450" alt="Data Analytics GIF" />
 </p>
 
 ---
