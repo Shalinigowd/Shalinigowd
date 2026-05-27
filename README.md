@@ -27,7 +27,7 @@
 
 <!-- GIF/Image (Optional - Add a relevant image URL) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" width="450" alt="Data Analytics GIF" />
+  <img src="https://img.shields.io/badge/Data_Analyst-6C5CE7?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ---
