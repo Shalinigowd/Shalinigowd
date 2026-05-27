@@ -26,9 +26,9 @@
 <br />
 
 <!-- GIF/Image (Optional - Add a relevant image URL) -->
-<p align="center">
+[<p align="center">
   <img src="https://img.shields.io/badge/Data_Analyst-6C5CE7?style=for-the-badge&logo=databricks&logoColor=white" />
-</p>
+</p>](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNoaHVqNmU3dWJ6Y2F2cHp2eWx6bHR5aG5vZzZ4cGp0d2Q1cXZqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif)
 
 ---
 
