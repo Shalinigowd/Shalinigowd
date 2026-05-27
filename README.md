@@ -25,10 +25,10 @@
 
 <br />
 
-<!-- GIF/Image (Optional - Add a relevant image URL) -->
-[<p align="center">
-  <img src="[https://img.shields.io/badge/Data_Analyst-6C5CE7?style=for-the-badge&logo=databricks&logoColor=white](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNoaHVqNmU3dWJ6Y2F2cHp2eWx6bHR5aG5vZzZ4cGp0d2Q1cXZqdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif)" />
-</p>]
+<!-- GIF/Image -->
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnUzMzR1YjVrYjFja2VqeXM3eHE3cDVnY21tcmR3aTN2eGpuemZxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="450" alt="Data Analytics Animation" />
+</p>
 
 ---
 
@@ -108,26 +108,13 @@
 <details open>
 <summary><b>📊 HR Analytics & Employee Attrition Prediction</b></summary>
 <br/>
-<table>
-<tr>
-<td>
-<b>Tech Stack:</b> Power BI, Python, Pandas, Scikit-learn, DAX, Excel
-</td>
-</tr>
-<tr>
-<td>
-• Developed interactive HR Analytics dashboard analyzing <b>1,470 employee records</b><br/>
-• Created KPI reports, DAX measures, and workforce demographic visualizations<br/>
-• Built <b>Random Forest ML model</b> predicting employee attrition with <b>86% accuracy</b><br/>
-• Identified key factors influencing employee retention
-</td>
-</tr>
-<tr>
-<td>
-📎 <a href="https://github.com/Shalinigowd/HR-Analytics_Project"><code>View Project →</code></a>
-</td>
-</tr>
-</table>
+
+| | |
+|--|--|
+| **Tech Stack:** | Power BI, Python, Pandas, Scikit-learn, DAX, Excel |
+| **Key Contributions:** | • Developed interactive HR Analytics dashboard analyzing <b>1,470 employee records</b><br/>• Created KPI reports, DAX measures, and workforce demographic visualizations<br/>• Built <b>Random Forest ML model</b> predicting employee attrition with <b>86% accuracy</b><br/>• Identified key factors influencing employee retention |
+| **Links:** | 📎 <a href="https://github.com/Shalinigowd/HR-Analytics_Project"><code>View Project →</code></a> |
+
 </details>
 
 <br/>
@@ -136,25 +123,13 @@
 <details>
 <summary><b>📈 Blinkit Sales Analysis Dashboard</b></summary>
 <br/>
-<table>
-<tr>
-<td>
-<b>Tech Stack:</b> Excel, Pivot Tables, VLOOKUP, XLOOKUP, Charts
-</td>
-</tr>
-<tr>
-<td>
-• Designed interactive dashboards analyzing sales performance across multiple outlets<br/>
-• Generated business insights supporting <b>data-driven decision-making</b><br/>
-• Performed category-level sales optimization analysis
-</td>
-</tr>
-<tr>
-<td>
-📎 <a href="https://github.com/Shalinigowd/blinkit-excel-dashboard"><code>View Project →</code></a>
-</td>
-</tr>
-</table>
+
+| | |
+|--|--|
+| **Tech Stack:** | Excel, Pivot Tables, VLOOKUP, XLOOKUP, Charts |
+| **Key Contributions:** | • Designed interactive dashboards analyzing sales performance across multiple outlets<br/>• Generated business insights supporting <b>data-driven decision-making</b><br/>• Performed category-level sales optimization analysis |
+| **Links:** | 📎 <a href="https://github.com/Shalinigowd/blinkit-excel-dashboard"><code>View Project →</code></a> |
+
 </details>
 
 <br/>
@@ -163,25 +138,13 @@
 <details>
 <summary><b>🗄️ Zepto Inventory Analysis (SQL)</b></summary>
 <br/>
-<table>
-<tr>
-<td>
-<b>Tech Stack:</b> PostgreSQL, SQL, Window Functions, CTEs, Aggregations
-</td>
-</tr>
-<tr>
-<td>
-• Wrote <b>20+ advanced SQL queries</b> analyzing inventory, pricing, and discounts<br/>
-• Identified high-discount and out-of-stock products using data analysis techniques<br/>
-• Performed category-wise revenue and pricing analysis for business insights
-</td>
-</tr>
-<tr>
-<td>
-📎 <a href="https://github.com/Shalinigowd/sql_project"><code>View Project →</code></a>
-</td>
-</tr>
-</table>
+
+| | |
+|--|--|
+| **Tech Stack:** | PostgreSQL, SQL, Window Functions, CTEs, Aggregations |
+| **Key Contributions:** | • Wrote <b>20+ advanced SQL queries</b> analyzing inventory, pricing, and discounts<br/>• Identified high-discount and out-of-stock products using data analysis techniques<br/>• Performed category-wise revenue and pricing analysis for business insights |
+| **Links:** | 📎 <a href="https://github.com/Shalinigowd/sql_project"><code>View Project →</code></a> |
+
 </details>
 
 ---
