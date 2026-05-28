@@ -77,7 +77,7 @@
 
 | Role | Organization | Duration | Key Contributions |
 |------|-------------|----------|-------------------|
-| **Data Analyst Intern** | QSpiders | 2024 – Present | • Applied Python, SQL, Power BI, and Excel for data analysis<br/>• Performed data cleaning, preprocessing, and EDA on real-world datasets<br/>• Developed interactive Power BI dashboards and reports<br/>• Utilized Pandas, NumPy, Matplotlib, Seaborn for statistical analysis |
+| **Data Analyst Intern** | QSpiders | 01-2026– Present | • Applied Python, SQL, Power BI, and Excel for data analysis<br/>• Performed data cleaning, preprocessing, and EDA on real-world datasets<br/>• Developed interactive Power BI dashboards and reports<br/>• Utilized Pandas, NumPy, Matplotlib, Seaborn for statistical analysis |
 
 ### 🎓 Virtual Experience
 
