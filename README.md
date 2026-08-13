@@ -120,7 +120,7 @@ I'm **Shalini M**, a recent graduate in **Computer Science & Business Systems** 
 ## 🎓 Education & Certifications
 
 **🎓 Bachelor of Engineering – Computer Science & Business Systems**  
-*MIT Mysore | Visvesvaraya Technological University* `(2023 – 2026)` | **CGPA: 7.34**
+*MIT Mysore | Visvesvaraya Technological University* `(2023 – 2026)` | **CGPA: 7.65**
 
 **📜 Diploma – Computer Science & Engineering**  
 *Government Polytechnic Arakere* `(2020 – 2023)`
