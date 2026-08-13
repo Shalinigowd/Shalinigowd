@@ -1,195 +1,174 @@
-<div align="center">
+<!-- Header with Typing Animation & Badges -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=700&lines=Shalini+M;Data+Analyst;Python+%7C+SQL+%7C+Power+BI+Expert;Turning+Data+into+Decisions" alt="Typing SVG" />
+</p>
 
-<!-- TYPING ANIMATION HERO -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=false&width=700&lines=Hi%2C+I'm+Shalini+M+%F0%9F%91%8B;Data+Analyst+%7C+Power+BI+Developer;SQL+%7C+Python+%7C+EDA+%7C+Dashboards;Turning+Data+into+Decisions)](https://git.io/typing-svg)
-
-<br/>
-
-**CS Graduate · MIT Mysore · VTU · CGPA 7.58**  
-*5-month Research Internship @ QSpiders, Mysuru — Real data, real insights, real dashboards.*
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shalini%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalinim08)
-[![Gmail](https://img.shields.io/badge/Gmail-shalinigowda004-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shalinigowda004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
-[![Open To Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)]()
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shalinidata&label=Profile%20Views&color=6C5CE7&style=flat-square" alt="Profile Views" />
+  <a href="mailto:shalinigowda004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-## 🧠 About Me
+## 👩‍💻 About Me
 
-```python
-shalini = {
-    "role"       : ["Data Analyst", "Power BI Developer", "Business Analyst"],
-    "location"   : "Mysuru, India 📍 | Open to Remote / Hybrid / PAN India",
-    "education"  : "B.E. Computer Science & Business Systems — MIT Mysore (2026)",
-    "internship" : "Data Analyst Intern @ QSpiders, Mysuru (Jan–May 2026)",
-    "stack"      : ["Python", "SQL", "Power BI", "Excel", "Tableau"],
-    "strengths"  : ["EDA", "Data Cleaning", "KPI Dashboards", "Data Storytelling"],
-    "currently"  : "Building portfolio projects | Targeting entry-level analyst roles",
-    "fun_fact"   : "I see every messy dataset as a puzzle waiting to be solved 🧩"
-}
-```
+I'm **Shalini M**, a recent graduate in **Computer Science & Business Systems** with a strong passion for data analytics. I thrive on transforming messy, raw data into clear, actionable insights that drive business decisions. My toolkit includes **Python (Pandas, NumPy, Matplotlib, Seaborn)**, **SQL (PostgreSQL)**, and **Power BI** — and I'm constantly exploring machine learning to add predictive power to my analyses.
+
+- 🔍 **Core Focus:** Data Cleaning, Exploratory Data Analysis (EDA), Dashboard Development, and Business Intelligence.
+- 📊 **Recent Experience:** Interned at QSpiders where I applied Python, SQL, and Power BI on real-world datasets, building interactive dashboards and performing end-to-end EDA.
+- 🎯 **Career Goal:** To secure an entry-level Data Analyst role where I can use analytical thinking and technical skills to support data-driven decision-making and business growth.
+
+> *"Data is the new oil — I refine it into strategic fuel."*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-### Languages & Libraries
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+### 📈 Programming & Data Analysis
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-### BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+### 🗄️ Databases & SQL
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+</p>
 
-### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 📊 Visualization & BI
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
----
+### 🤖 Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6F00?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=tree&logoColor=white" />
+  <img src="https://img.shields.io/badge/Naive_Bayes-4CAF50?style=for-the-badge&logo=naive&logoColor=white" />
+  <img src="https://img.shields.io/badge/Decision_Trees-FF9800?style=for-the-badge&logo=tree&logoColor=white" />
+</p>
 
-## 📂 Featured Projects
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-### 🏢 HR Analytics Dashboard & Employee Attrition Prediction
-> **Power BI · Python · SQL · Scikit-learn · Random Forest**
-
-Analyzed 1,470 employee records to uncover attrition drivers and predict at-risk employees using machine learning.
-
-| What I Did | Outcome |
-|---|---|
-| Built interactive Power BI dashboard | Tracked attrition trends across 5 HR dimensions |
-| Developed Random Forest model (Scikit-learn) | Identified tenure, overtime & job level as top 3 risk factors |
-| Performed full EDA (Pandas, Seaborn) | Surfaced salary band & satisfaction patterns linked to attrition |
-
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/hr-analytics)
-
----
-
-### ☕ Starbucks Sales Analytics Dashboard
-> **Power BI · Excel · Power Query · DAX**
-
-Built an end-to-end sales intelligence dashboard tracking revenue trends, product performance, and regional KPIs.
-
-| What I Did | Outcome |
-|---|---|
-| Power Query transformations + DAX measures | MoM growth, top SKUs, revenue by category |
-| Interactive report with slicers & drill-throughs | Self-service analytics for non-technical stakeholders |
-| Seasonal demand analysis | Identified underperforming product lines |
-
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/starbucks-dashboard)
+### 🧠 Core Competencies
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Cleaning-4CAF50?style=flat-square&logo=datacleaning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exploratory_Data_Analysis-2196F3?style=flat-square&logo=eda&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL_Process-FF9800?style=flat-square&logo=etl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dashboard_Development-9C27B0?style=flat-square&logo=dashboard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Business_Intelligence-607D8B?style=flat-square&logo=bi&logoColor=white" />
+</p>
 
 ---
 
-### 🛒 Zepto Inventory Analysis
-> **SQL · PostgreSQL · CTEs · Window Functions**
+## 💼 Professional Experience
 
-Deep-dive inventory analysis using advanced SQL on a multi-table relational database.
+**📌 Data Analyst Intern** @ *QSpiders*  
+`[Recent]`  
+- Applied **Python (Pandas, NumPy, Matplotlib, Seaborn)** for data cleaning, preprocessing, and exploratory data analysis on real-world datasets.  
+- Utilized **SQL** for data extraction and analysis, and **Power BI** to build interactive dashboards and reports.  
+- Performed statistical analysis and visualization to communicate business insights effectively.  
+- Leveraged **Excel** for ad-hoc reporting and data summarization.
 
-| What I Did | Outcome |
-|---|---|
-| Joins, CTEs, Window Functions across tables | Stock gap patterns & pricing anomalies surfaced |
-| Category performance ranking queries | Top/bottom performers by availability & margin |
-| Built reusable SQL query library | Repeatable monitoring for inventory operations |
-
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/zepto-inventory-sql)
-
----
-
-### 🔬 Gender Diversity Analytics in Software Engineering
-> **Python · Pandas · Seaborn · Power BI · DAX · Research Internship @ QSpiders**
-
-Led an independent research study on gender hiring, retention, and attrition trends in software engineering across 2013–2016.
-
-| What I Did | Outcome |
-|---|---|
-| Cleaned & preprocessed 4-year workforce dataset | Removed nulls, outliers, engineered features (Pandas) |
-| Full EDA with visual storytelling | Year-on-year gender gap trends across engineering roles |
-| Power BI dashboard (8+ visuals) | Gender ratios, attrition gaps, role distribution — interactive |
-| Structured research report | Submitted as CIE research output, MIT Mysore |
-
-[![GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/gender-diversity-analytics)
+**📌 Virtual Job Simulations** @ *Forage*  
+- **Data Analytics Job Simulation** – Applied analytical frameworks to business scenarios.  
+- **Data Visualization: Empowering Business with Insights** – Created impactful visual narratives.  
+- **GenAI Powered Data Analytics** – Explored generative AI for enhanced data storytelling.  
+- **Introduction to Data for Decision Makers** – Bridged data analysis with strategic decisions.
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Key Achievements
 
-<div align="center">
-
-![Shalini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-</div>
+- 🎯 **Attrition Prediction Model:** Built a **Random Forest** classifier to predict employee attrition from 1,470 records, identifying key retention drivers.
+- 📈 **HR Dashboard Impact:** Designed a Power BI dashboard with DAX measures and KPI reports, adopted for workforce trend analysis.
+- 🛒 **Inventory SQL Analysis:** Wrote **20+ advanced PostgreSQL queries** (CTEs, Window Functions) to uncover high-discount and out-of-stock patterns.
+- 📊 **Sales Optimization:** Created Excel dashboards using **Pivot Tables, XLOOKUP, and Charts** to analyze sales across multiple outlets.
+- 🏅 **Certifications:** Completed 5 industry-recognized simulations (Forage & TCS iON) covering data analytics, visualization, and GenAI.
 
 ---
 
-## 🎓 Education & Experience Timeline
+## 📁 Featured Projects
 
-```
-2026  ──●── B.E. Computer Science & Business Systems
-             MIT Mysore | VTU | CGPA: 7.58
-             
-Jan–May 2026 ──●── Data Analyst Intern
-                    QSpiders, Mysuru (under CIE)
-                    Python · SQL · Power BI · EDA · Dashboard Design
-                    
-2023  ──●── Diploma in Computer Science & Engineering
-             Government Polytechnic Arakere
-```
+| Project | Tech Stack | Impact |
+|---------|------------|--------|
+| [**HR Analytics & Attrition Prediction**](https://github.com) | Power BI, Python, Pandas, Scikit-learn, DAX, Excel | Interactive dashboard + ML model; featured in portfolio. |
+| [**Blinkit Sales Analysis**](https://github.com) | Excel (Pivot Tables, XLOOKUP, Charts) | Real-time sales dashboard across outlets; identified revenue opportunities. |
+| [**Zepto Inventory Analysis**](https://github.com) | PostgreSQL, SQL | 20+ queries revealing discount-driven OOS risks; category-wise revenue insights. |
+
+<p align="center">
+  <i>🔗 Click on any project to explore the code & live demo (GitHub repos).</i>
+</p>
 
 ---
 
-## 📜 Certifications
+## 🎓 Education & Certifications
 
-| Certification | Issuer | Status |
-|---|---|---|
-| Data Analytics Job Simulation | Forage | ✅ Completed |
-| Data Visualization: Empowering Business with Insights | Forage | ✅ Completed |
-| GenAI Powered Data Analytics Simulation | Forage | ✅ Completed |
-| TCS iON Career Edge — Young Professional | TCS | ✅ Completed |
-| Microsoft PL-300 — Power BI Data Analyst | Microsoft | 🔄 In Progress |
-| Google Data Analytics Certificate | Coursera | 🔄 Planned |
+**🎓 Bachelor of Engineering – Computer Science & Business Systems**  
+*MIT Mysore | Visvesvaraya Technological University* `(2023 – 2026)` | **CGPA: 7.34**
 
----
+**📜 Diploma – Computer Science & Engineering**  
+*Government Polytechnic Arakere* `(2020 – 2023)`
 
-## 📌 Currently
+**📜 SSLC** – Karnataka Public School `(2020)` | **77.76%**
 
-- 🔭 **Building:** Customer Churn EDA (Python) · Retail Sales SQL Analysis
-- 📚 **Learning:** Advanced DAX patterns · Machine Learning with Scikit-learn
-- 🎯 **Targeting:** Data Analyst · Business Analyst · Power BI Developer · BI Analyst
-- 💬 **Ask me about:** Power BI dashboards, SQL queries, Python EDA, Data Cleaning
-- 📍 **Location:** Mysuru | Open to Remote / Hybrid / Relocation across India
+### 📜 Certifications
+- ✅ Data Analytics Job Simulation – *Forage*
+- ✅ Data Visualization: Empowering Business with Insights – *Forage*
+- ✅ GenAI Powered Data Analytics Job Simulation – *Forage*
+- ✅ TCS iON Career Edge – Young Professional
+- ✅ Introduction to Data for Decision Makers – *Forage*
 
 ---
 
-<div align="center">
+## 📊 GitHub Analytics
 
-### 💡 My Analytics Philosophy
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shalinidata&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C5CE7&icon_color=6C5CE7" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shalinidata&theme=radical&hide_border=true&background=0D1117&stroke=6C5CE7&ring=6C5CE7&fire=6C5CE7" />
+</p>
 
-*"A dashboard nobody uses is just decoration. I build dashboards that answer real business questions."*
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalinidata&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C5CE7" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=shalinidata&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shalinidata&theme=react-dark&bg_color=0D1117&color=6C5CE7&line=6C5CE7&point=C084FC&hide_border=true" width="90%" />
+</p>
 
 ---
 
-**Open to entry-level Data Analyst, Business Analyst, and Power BI Developer roles.**  
-If you're hiring or know someone who is — let's connect.
+## 🤝 Let's Connect & Collaborate
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shalinim08)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shalinigowda004@gmail.com)
+I'm actively seeking **entry-level Data Analyst** roles where I can apply my analytical mindset, technical depth, and business storytelling. Whether it's a project collaboration, freelance dashboard design, or full-time opportunity — let's talk.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6C63FF&style=for-the-badge&label=Profile+Views)
+<p align="center">
+  <a href="mailto:shalinigowda004@gmail.com"><img src="https://img.shields.io/badge/Email-shalinigowda004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Shalini_M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Shalini.dev-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-shalinidata-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=100&section=footer&fontColor=ffffff" width="100%" />
+</p>
+
+---
+
+*⭐ This README is dynamically personalized based on my resume — every badge, stat, and project reflects my actual analytics journey.*
