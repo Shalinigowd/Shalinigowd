@@ -178,7 +178,3 @@ I'm actively seeking **entry-level Data Analyst** roles where I can apply my ana
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=100&section=footer&fontColor=ffffff" width="100%" />
 </p>
-
----
-
-*⭐ This README is dynamically personalized based on my resume — every badge, stat, and project reflects my actual analytics journey.*
