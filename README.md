@@ -72,6 +72,7 @@ I'm **Shalini M**, a recent graduate in **Computer Science & Business Systems** 
   <img src="https://img.shields.io/badge/ETL_Process-FF9800?style=flat-square&logo=etl&logoColor=white" />
   <img src="https://img.shields.io/badge/Dashboard_Development-9C27B0?style=flat-square&logo=dashboard&logoColor=white" />
   <img src="https://img.shields.io/badge/Business_Intelligence-607D8B?style=flat-square&logo=bi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Risk_Scoring-F44336?style=flat-square&logo=risk&logoColor=white" />
 </p>
 
 ---
@@ -99,6 +100,7 @@ I'm **Shalini M**, a recent graduate in **Computer Science & Business Systems** 
 - 📈 **HR Dashboard Impact:** Designed a Power BI dashboard with DAX measures and KPI reports, adopted for workforce trend analysis.
 - 🛒 **Inventory SQL Analysis:** Wrote **20+ advanced PostgreSQL queries** (CTEs, Window Functions) to uncover high-discount and out-of-stock patterns.
 - 📊 **Sales Optimization:** Created Excel dashboards using **Pivot Tables, XLOOKUP, and Charts** to analyze sales across multiple outlets.
+- 🔍 **E-Commerce Risk Detection:** Analyzed **99K+ e-commerce orders**, developed a **rule-based risk scoring framework**, and prioritized **2,367 investigation cases** with a 5-page Power BI dashboard.
 - 🏅 **Certifications:** Completed 5 industry-recognized simulations (Forage & TCS iON) covering data analytics, visualization, and GenAI.
 
 ---
@@ -107,9 +109,17 @@ I'm **Shalini M**, a recent graduate in **Computer Science & Business Systems** 
 
 | Project | Tech Stack | Impact |
 |---------|------------|--------|
+| [**E-Commerce Investigation & Risk Detection**](https://github.com) | Python, SQL, PostgreSQL, Power BI, DAX | Analyzed 99K+ orders; built risk scoring framework; 2,367 prioritized cases; 5-page dashboard with 10+ KPIs. |
 | [**HR Analytics & Attrition Prediction**](https://github.com) | Power BI, Python, Pandas, Scikit-learn, DAX, Excel | Interactive dashboard + ML model; featured in portfolio. |
 | [**Blinkit Sales Analysis**](https://github.com) | Excel (Pivot Tables, XLOOKUP, Charts) | Real-time sales dashboard across outlets; identified revenue opportunities. |
 | [**Zepto Inventory Analysis**](https://github.com) | PostgreSQL, SQL | 20+ queries revealing discount-driven OOS risks; category-wise revenue insights. |
+
+### 🔍 Project Spotlight: E-Commerce Investigation & Risk Detection
+
+- 📦 **Data Scale:** Analyzed **99,000+ e-commerce orders** using SQL/PostgreSQL to identify operational anomalies.
+- ⚖️ **Risk Scoring:** Developed a **rule-based framework** standardizing case severity into **Low, Medium, High** risk; prioritized **3 high-risk cases** for immediate escalation.
+- 🔄 **Workflow:** Built a structured investigation workflow covering **risk reasons, root causes, recommended actions, status, and escalation**.
+- 📊 **Dashboard:** Created a **5-page Power BI dashboard** with **10+ KPIs** monitoring risk, root causes, investigation queues, SLA, and TAT — enabling data-driven operational monitoring.
 
 <p align="center">
   <i>🔗 Click on any project to explore the code & live demo (GitHub repos).</i>
